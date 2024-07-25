@@ -1,16 +1,13 @@
-## Hi there 👋
+### Seja bem vindo ao meu perfil 🔴
 
-<!--
-**brennoqz/brennoqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Breno Santiago
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura)
+  
+### Você pode entrar em contato comigo 📭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- silva.santiago.breno@escola.pr.gov.br
+
+- @xxxxxx
+
+![](https://tenor.com/pt-BR/view/gb-gabriel-barbosa-gabigol-gabrielb-gabiella-gif-24020542)
